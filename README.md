@@ -1,8 +1,10 @@
 Data Source:
 The data was collected using the GitHub API, which provides structured access to repositories and their metadata.
 
+
 Date of Collection:
 Data was collected in September 2025.
+
 
 Collection Method:
 
@@ -11,6 +13,7 @@ API queries were executed through Python on Google Colab.
 The search query targeted the top 250 most-starred AI-related repositories per quarter for the years 2020–2025 (1000 repositories per year).
 
 This resulted in a dataset of approximately 5000 repositories.
+
 
 Challenges Encountered:
 
